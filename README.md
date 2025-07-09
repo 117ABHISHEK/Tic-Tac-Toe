@@ -75,7 +75,8 @@ g++ tictactoe.cpp -o tictactoe
 
 ## ✨ Author
 
-Created by Abhishek
+Created by Abhishek  
+
 C++ Enthusiast | Game Logic Builder | Terminal UI Designer
 
 ---
